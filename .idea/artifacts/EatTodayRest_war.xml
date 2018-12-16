@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EatTodayRest:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/EatTodayRest_war</output-path>
+    <root id="archive" name="EatTodayRest_war.war">
+      <element id="artifact" artifact-name="EatTodayRest:war exploded" />
+    </root>
+  </artifact>
+</component>
